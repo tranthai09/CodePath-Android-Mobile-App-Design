@@ -2,7 +2,7 @@
 ## HelloLily
 
 ### App Description
-`The app allows users to input personal text messages, change the color of the text, and change the color of the background to a different color all with the simple click of three individual designated buttons.
+The app allows users to input personal text messages, change the color of the text, and change the color of the background to a different color all with the simple click of three individual designated buttons.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
