@@ -15,7 +15,7 @@ The app allows users to input personal text messages, change the color of the te
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
-- [X] 2. User see's custom background color.
+- [X] 2. User sees custom background color.
 - [X] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
