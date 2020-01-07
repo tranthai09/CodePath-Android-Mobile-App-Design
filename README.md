@@ -8,7 +8,7 @@ The app allows users to input personal text messages, change the color of the te
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
-<a href="https://imgur.com/VSyKxOW"><img src="https://i.imgur.com/VSyKxOW.gif" title="source: imgur.com" /></a width=200> <br>
+<a href="https://imgur.com/VSyKxOW"><img src="https://i.imgur.com/VSyKxOW.gif" title="source: imgur.com" /></a> <br>
 <br>
 <a href="https://imgur.com/ZGJIMQv"><img src="https://i.imgur.com/ZGJIMQv.gif" title="source: imgur.com" /></a width=200> <br>
 
