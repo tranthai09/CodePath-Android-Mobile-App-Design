@@ -5,11 +5,10 @@
 The app allows users to input personal text messages, change the color of the text, and change the color of the background to a different color all with the simple click of three individual designated buttons.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+#### Required App:
 <a href="https://imgur.com/VSyKxOW"><img src="https://i.imgur.com/VSyKxOW.gif" title="source: imgur.com" /></a> <br>
 <br>
+#### Optional Features:
 <a href="https://imgur.com/ZGJIMQv"><img src="https://i.imgur.com/ZGJIMQv.gif" title="source: imgur.com" /></a width=200> <br>
 
 
