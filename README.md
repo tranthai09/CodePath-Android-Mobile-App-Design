@@ -9,7 +9,7 @@ The app allows users to input personal text messages, change the color of the te
 <a href="https://imgur.com/VSyKxOW"><img src="https://i.imgur.com/VSyKxOW.gif" title="source: imgur.com" /></a> <br>
 <br>
 #### Optional Features:
-<a href="https://imgur.com/ZGJIMQv"><img src="https://i.imgur.com/ZGJIMQv.gif" title="source: imgur.com" /></a width=200> <br>
+<a href="https://imgur.com/ZGJIMQv"><img src="https://i.imgur.com/ZGJIMQv.gif" title="source: imgur.com" /></a> <br>
 
 
 
