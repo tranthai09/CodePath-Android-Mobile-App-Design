@@ -9,6 +9,10 @@ The app allows users to input personal text messages, change the color of the te
 
 <img src="YOUR_GIF_URL_HERE" width=200><br>
 
+<img src="https://imgur.com/VSyKxOW" width=200><br>
+<img src="https://imgur.com/ZGJIMQv" width=200><br>
+
+
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
