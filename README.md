@@ -11,6 +11,7 @@ The app allows users to input personal text messages, change the color of the te
 
 <img src="https://imgur.com/VSyKxOW" width=200><br>
 <img src="https://imgur.com/ZGJIMQv" width=200><br>
+<a href="https://imgur.com/ZGJIMQv"><img src="https://i.imgur.com/ZGJIMQv.gif" title="source: imgur.com" /></a>
 
 
 
